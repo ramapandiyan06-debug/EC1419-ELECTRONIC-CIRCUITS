@@ -7,6 +7,7 @@
 ## ATTACH THE CORRECT CIRCUIT
 
 ## GRAPHS
+![WhatsApp Image 2025-11-23 at 11 11 33 PM](https://github.com/user-attachments/assets/9e7446d3-3365-4b88-9a32-47d921280364)
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
